@@ -4,7 +4,7 @@ Demo de l'utilisation d'un repo git de project Unity 3D
 
 ## Comment Insérer un projet Unity dans un dossier git déjà existant?
 
-( unity ne supporte pas de créer un nouveau projet dans un dossier déjà existant ).
+( Unity ne supporte pas de créer un nouveau projet dans un dossier déjà existant ).
 
 Deux solutions possible :
 
